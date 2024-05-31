@@ -30,4 +30,4 @@
 - react-router-dom을 설치합니다. `npm install react-router-dom`
 - sass를 설치합니다. `npm install sass`
 - gsap를 설치합니다. `npm install gsap`
-- lenis를 설치합니다. `npm install @studio-freight/lenis`
+- lenis를 설치합니다. `npm install @studio-freight/lenis`"# port2023-react" 
