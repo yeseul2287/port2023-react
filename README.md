@@ -31,3 +31,4 @@
 - sass를 설치합니다. `npm install sass`
 - gsap를 설치합니다. `npm install gsap`
 - lenis를 설치합니다. `npm install @studio-freight/lenis`"# port2023-react" 
+"# port2023-react" 
